@@ -1,5 +1,5 @@
 Acerca de mi 👋
-💫 Acerca de mí
+
 
 <!--
 **Joseph-Suarez366/Joseph-suarez366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
