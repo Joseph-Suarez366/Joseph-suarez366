@@ -13,5 +13,5 @@ Acerca de mi 👋
 - 💬 Ask me about ... -->
 - 📫 How to reach me: josephsuarez86gmail.com
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+- ⚡ Fun fact: Soy Tecnólogo electrónico, que le gusta el mundo de la programación.
 
