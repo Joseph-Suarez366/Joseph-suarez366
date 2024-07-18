@@ -4,7 +4,7 @@
 
 ### 🤘 Sobre Mí
 
-Soy tecnologo electronico, inicinado en el mundo de la programacion, siempre listo para enfrentar el próximo desafío de código. La música y la tecnología son mis pasiones.
+Soy tecnologo electronico, apasionado por el mundo de la programacion, siempre listo para enfrentar el próximo desafío de código. La música y la tecnología son mis pasiones.
 
 <!-- - 🔥 Actualmente trabajando en: [Empresa/Proyecto Actual] -->
 - 🤘 Aprendiendo: MySQL
