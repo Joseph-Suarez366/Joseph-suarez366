@@ -1,17 +1,36 @@
-Acerca de mi 👋
+# ¡Hey! Soy Joseph Suarez 🤘
 
+![Profile Banner](https://example.com/tu-imagen-de-banner.jpg)
 
-<!--
-**Joseph-Suarez366/Joseph-suarez366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+### 🤘 Sobre Mí
 
+Soy tecnologo electronico, inicinado en el mundo de la programacion, siempre listo para enfrentar el próximo desafío de código. La música y la tecnología son mis pasiones.
 
+<!-- - 🔥 Actualmente trabajando en: [Empresa/Proyecto Actual] -->
+- 🤘 Aprendiendo: MySQL
+<!-- - 🎸 Buscando colaborar en: [Tipo de Proyecto] -->
+- 📫 Contáctame: josephsuarez86@gmail.com
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Mysql
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: josephsuarez86@gmail.com
-<!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Soy Tecnólogo electrónico, que le gusta el mundo de la programación.
+### 🤘 Habilidades
 
+- **Lenguajes:** C, C++, java
+<!-- - **Frameworks:** React, Node.js, Django
+- **Herramientas:** Git, Docker, Kubernetes -->
+
+### 🤘 Proyectos 
+
+1. **[Nombre del Proyecto]**
+   - App para realizar reportes de mantenimento.
+   - Tecnologías utilizadas: Android Studio
+
+<!-- 2. **[Nombre del Proyecto]**
+   - Descripción breve y poderosa.
+   - Tecnologías utilizadas: [Tecnologías] -->
+
+<!-- ### 🤘 Encuéntrame en:
+
+- [LinkedIn](https://linkedin.com/in/tu-usuario)
+- [Twitter](https://twitter.com/tu-usuario)
+- [GitHub](https://github.com/tu-usuario)
+
+![Footer Image](https://example.com/tu-imagen-de-footer.jpg) -->
