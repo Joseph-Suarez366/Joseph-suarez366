@@ -11,7 +11,7 @@ Acerca de mi 👋
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: josephsuarez86gmail.com
+- 📫 How to reach me: josephsuarez86@gmail.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Soy Tecnólogo electrónico, que le gusta el mundo de la programación.
 
